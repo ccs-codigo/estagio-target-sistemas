@@ -1,6 +1,6 @@
 # Repositório de Soluções dos Desafios - Estágio Target Sistemas
 
-Este repositório contém as soluções para os desafios propostos no processo seletivo de estágio da **Target Sistemas**. Todos os desafios foram resolvidos utilizando **JavaScript**.
+Este repositório contém as soluções para os desafios propostos no processo seletivo de estágio da **Target Sistemas**. Todos os desafios foram resolvidos utilizando **JavaScript** e **Node.js**.
 
 ## Desafios
 
