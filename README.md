@@ -66,3 +66,18 @@ Para rodar qualquer uma das soluções, basta ter o Node.js instalado. Você pod
 1. Clone o repositório para o seu ambiente local:
    ```bash
    git clone https://github.com/seu-usuario/estagio-target-sistemas.git
+
+2. Navegue até o diretório do repositório:
+
+   ```bash
+   cd estagio-target-sistemas
+
+3. Execute o código referente a cada questão diretamente com o Node.js:
+
+   ```bash
+
+   node sumResult.js
+   node fibonacci.js
+   node calcFaturamento.js
+   node statePercent.js
+   node invert.js
