@@ -4,10 +4,16 @@ Este repositório contém as soluções para os desafios propostos no processo s
 
 ## Desafios
 
-### Questão 1: Soma dos números de 1 a N
+### Questão 1:
 
 **Descrição:**
-Dado o código abaixo, calcule o valor final da variável `SOMA` após a execução do laço.
+Observe o trecho de código abaixo:
+   
+   int INDICE = 13, SOMA = 0, K = 0;
+   Enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; }
+   Imprimir(SOMA);
+
+Ao final do processamento, qual será o valor da variável `SOMA`?
 
 [Link para o script da Questão 1](https://github.com/ccs-codigo/estagio-target-sistemas/blob/main/sumResult.js)
 
@@ -68,14 +74,11 @@ Para rodar qualquer uma das soluções, basta ter o Node.js instalado. Você pod
    git clone https://github.com/seu-usuario/estagio-target-sistemas.git
 
 2. Navegue até o diretório do repositório:
-
    ```bash
    cd estagio-target-sistemas
 
 3. Execute o código referente a cada questão diretamente com o Node.js:
-
    ```bash
-
    node sumResult.js
    node fibonacci.js
    node calcFaturamento.js
