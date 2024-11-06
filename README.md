@@ -9,7 +9,7 @@ Este repositório contém as soluções para os desafios propostos no processo s
 **Descrição:**
 Dado o código abaixo, calcule o valor final da variável `SOMA` após a execução do laço.
 
-[[Link para o script da Questão 1](./questao1.js)](https://github.com/ccs-codigo/estagio-target-sistemas/blob/main/sumResult.js)
+[Link para o script da Questão 1](https://github.com/ccs-codigo/estagio-target-sistemas/blob/main/sumResult.js)
 
 ---
 
