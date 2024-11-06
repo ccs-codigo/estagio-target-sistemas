@@ -18,7 +18,7 @@ Dado o código abaixo, calcule o valor final da variável `SOMA` após a execuç
 **Descrição:**
 Escreva um programa que, dado um número, calcule a sequência de Fibonacci e retorne uma mensagem informando se o número pertence ou não à sequência.
 
-[Link para o script da Questão 2](./questao2.js)
+[Link para o script da Questão 2](https://github.com/ccs-codigo/estagio-target-sistemas/blob/main/fibonacci.js)
 
 ---
 
@@ -30,7 +30,7 @@ Dado um vetor com o valor de faturamento diário de uma distribuidora, calcule e
 - O maior valor de faturamento ocorrido em um dia do mês;
 - O número de dias no mês em que o valor de faturamento foi superior à média mensal.
 
-[Link para o script da Questão 3](./questao3.js)
+[Link para o script da Questão 3](https://github.com/ccs-codigo/estagio-target-sistemas/blob/main/calcFaturamento.js)
 
 ---
 
@@ -46,7 +46,7 @@ Com os seguintes valores de faturamento mensal por estado, calcule o percentual 
 - ES: R$27.165,48
 - Outros: R$19.849,53
 
-[Link para o script da Questão 4](./questao4.js)
+[Link para o script da Questão 4](https://github.com/ccs-codigo/estagio-target-sistemas/blob/main/statePercent.js)
 
 ---
 
@@ -55,7 +55,7 @@ Com os seguintes valores de faturamento mensal por estado, calcule o percentual 
 **Descrição:**
 Escreva um programa que inverta os caracteres de uma string sem usar funções prontas, como `reverse()`.
 
-[Link para o script da Questão 5](./questao5.js)
+[Link para o script da Questão 5](https://github.com/ccs-codigo/estagio-target-sistemas/blob/main/invert.js)
 
 ---
 
